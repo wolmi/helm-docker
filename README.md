@@ -1,9 +1,9 @@
 # helm-docker
 
-[![Docker Pulls](https://img.shields.io/docker/pulls/devth/helm.svg?style=flat-square)](https://hub.docker.com/r/devth/helm/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/wolmi/helm-docker.svg?style=flat-square)](https://hub.docker.com/r/wolmi/helm-docker/)
 
 Docker images are automatically built on [Docker
-Hub](https://hub.docker.com/r/devth/helm/):
+Hub](https://hub.docker.com/r/wolmi/helm-docker/):
 
 - `latest` always corresponds with the latest build from master
 - Docker `tag` always correspond with git `tag`
