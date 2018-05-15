@@ -40,3 +40,7 @@ RUN helm init --client-only
 RUN mkdir /tmp
 RUN helm plugin install https://github.com/viglesiasce/helm-gcs.git
 RUN helm plugin install https://github.com/databus23/helm-diff
+
+# Install Docker daemon
+
+RUN apk add docker
