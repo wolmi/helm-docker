@@ -1,6 +1,6 @@
 {
   "name": "helm-docker",
-  "version": "1.0.0",
+  "version": "1.1.0-beta.0",
   "description": "[![Docker Pulls](https://img.shields.io/docker/pulls/wolmi/helm-docker.svg?style=flat-square)](https://hub.docker.com/r/wolmi/helm-docker/)",
   "main": "index.js",
   "scripts": {
