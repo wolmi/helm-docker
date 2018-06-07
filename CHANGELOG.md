@@ -1,0 +1,12 @@
+# Change Log
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+<a name="1.0.0"></a>
+# [1.0.0](https://github.com/wolmi/helm-docker/compare/v2.9.1...v1.0.0) (2018-06-07)
+
+
+### Features
+
+* Added gitignore file ([bba16f4](https://github.com/wolmi/helm-docker/commit/bba16f4))
+* Added standard version ([97d5114](https://github.com/wolmi/helm-docker/commit/97d5114))
