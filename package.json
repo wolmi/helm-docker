@@ -1,0 +1,23 @@
+{
+  "name": "helm-docker",
+  "version": "1.0.0",
+  "description": "[![Docker Pulls](https://img.shields.io/docker/pulls/wolmi/helm-docker.svg?style=flat-square)](https://hub.docker.com/r/wolmi/helm-docker/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "standard-version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wolmi/helm-docker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wolmi/helm-docker/issues"
+  },
+  "homepage": "https://github.com/wolmi/helm-docker#readme",
+  "devDependencies": {
+    "standard-version": "^4.4.0"
+  }
+}
